@@ -1,9 +1,9 @@
 label,sublabel,description,styles,bgcolor
-燃やせるごみ,,,,#ea3b13
+燃やせるごみ,,,img/moyasu02.svg,#ea3b13
 古紙類,,,,#ffff00
 容器包装プラスチックごみ,,,,0000ff
 ペットボトル,,,,#ff00ff
-びん類,,,,#2dc7aa
-缶,,,,#77ae1f
-不燃物Ａ，危険物,,,,#733b96
+びん類,,,img/bin02.svg,#2dc7aa
+缶,,,img/shigen02.svg,#77ae1f
+不燃物Ａ，危険物,,,img/moyasanai02.svg,#733b96
 不燃物Ｂ,,,,#fa1704
