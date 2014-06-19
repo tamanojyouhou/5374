@@ -224,7 +224,7 @@ var TrashModel = function(_lable, _cell, remarks) {
     this.dayList = day_list;
   }
   /**
-   計算したゴミの日一覧をリスト形式として取得します。
+   計算したゴミの日一覧をリスト形式として取得します
   */
   this.getDayList = function() {
     var day_text = "<ul>";
