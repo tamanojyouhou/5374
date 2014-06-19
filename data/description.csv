@@ -1,9 +1,9 @@
 label,sublabel,description,styles,bgcolor
-可燃,,,img/moyasu02.svg,#ea3b13
+可燃,,,img/moyasu.svg,#ea3b13
 古紙,,,,#ffff00
-プラ,,,img/shigen02.svg,0000ff
+プラ,,,img/shigen.svg,0000ff
 ペット,,,,#ff00ff
-びん,,,img/bin02.svg,#2dc7aa
+びん,,,img/bin.svg,#2dc7aa
 缶,,,,#77ae1f
 不燃Ａ・危険,,,,#733b96
-不燃Ｂ,,,img/moyasanai02.svg,#fa1704
+不燃Ｂ,,,img/moyasanai.svg,#fa1704
